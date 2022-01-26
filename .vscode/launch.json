@@ -2,10 +2,10 @@
     // 使用 IntelliSense 了解相关属性。 
     // 悬停以查看现有属性的描述。
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
+    "version": "0.2.0",  //launch.json文件的语言版本
     "configurations": [
         {
-            "name": "g++.exe - 生成和调试活动文件",
+            "name": "g++.exe - 生成和调试活动文件", // 自定义名称
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
