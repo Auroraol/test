@@ -1,11 +1,5 @@
 {
-	"version": "2.0.0", //task.json文件的语言版本
-	"windows": {
-        "options": {
-            "shell": {
-                "executable": "wsl.exe",    //修改task执行的shell为WSL
-                "args": []
-            },
+	"version": "2.0.0", //task.json文件的语言版本	
 	"tasks": [
 		{
 			"type": "cppbuild",
